@@ -1,0 +1,21 @@
+body{
+	background-image: url('images/wet-hops.jpg');
+}
+
+.jumbotron{
+	background-image: url('images/beer-freshness.jpg');
+	background-repeat: no-repeat;
+	background-size: 1110px;
+}
+
+.display-3{
+	color: white;
+	font-size: 84px;
+	font-family: 'VT323', monospace;
+}
+
+.lead{
+	color: white;
+	font-size: 30px;
+	font-family: 'VT323', monospace;
+}
